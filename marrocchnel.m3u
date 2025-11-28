@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" tvg-logo="https://imgs.search.brave.com/76OGRrF2WHYyWaynyA4DbVtvLuMU-bf3G0Lj92hpgpk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5LzJNX1RWX2xv/Z28uc3Zn" group-title="Morocco",2M Monde
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/b037a2be-82c4-4034-af82-00eedebc287b/3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png" group-title="17. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",ASSADISSA القرآن الكريم
+https://xddrts.alwaysdata.net/maro123/maassadi.php?m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="17. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",TAMAZIGHT الأمازيغية
+https://cdnet.alwaysdata.net/maro123/matamaz.php?m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N261YP3B/aflam7.png" group-title="17. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",AFLAM أفلام
+https://fl1002.bozztv.com/ga-aflamtv7/tracks-v1a1/mono.ts.m3u8
+ 
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="SNRT",Medi 1 TV Maghreb
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="Aljazera" tvg-name="AlJazera" tvg-logo="https://imgs.search.brave.com/CyYF7qZ5SoiFc_CvhgxV97NQfAsOVFhDIqHopRNAXnA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2Vla3BuZy5jb20v/cG5nL2RldGFpbC80/MDYtNDA2NDc0N19h/bC1qYXplZXJhLWxv/Z28tcG5nLnBuZw" group-title="Morocco",Al Jazera
+https://live-hls-web-aja.getaj.net/AJA/05.m3u8
+ 
